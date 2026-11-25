@@ -73,6 +73,4 @@ I ran it on Windows 11 with 15 GB RAM, Python 3.13.14, pandas 3.0.3, numpy 2.4.6
 
 Dataset: Chen, D. (2012). Online Retail II [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
 
-AI tools: [write one honest line here about what you used them for]
 
-Video walkthrough: [add your YouTube link]
