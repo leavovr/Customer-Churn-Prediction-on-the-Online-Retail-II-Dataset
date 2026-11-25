@@ -1,6 +1,6 @@
 # Customer churn prediction on Online Retail II
 
-This is my term project for the B.Sc. (Hons) Data Science and AI programme at IIT Guwahati. The question is simple: if I know what a customer bought in the past, can I tell who is going to stop buying?
+
 
 ## The data
 
